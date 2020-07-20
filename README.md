@@ -41,7 +41,7 @@ link -https://res.cloudinary.com/dfmeqlgua/image/upload/v1595265270/Screen_Shot_
 
 #Issues and Resolutions
 
-Here's a list of various issues I've encountered and solutions I've came up with...
+Here's a list of various issues I've encountered and resolutions I've came up with...
 
 issue: hamburger menu crunching to close to my "welcome" banner
 resolution: putting borders around everything and seeing that one of my opaque div elements was taking up all the space that was needed for my hamburger menu
