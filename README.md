@@ -25,4 +25,29 @@ link -https://res.cloudinary.com/dfmeqlgua/image/upload/v1594612250/mvp_postmvp_
 
 #Functional-Components
 
-link -https://res.cloudinary.com/dfmeqlgua/image/upload/v1594612266/functionalcomponents_vjiubq.png
+link -https://res.cloudinary.com/dfmeqlgua/image/upload/v1595265239/Screen_Shot_2020-07-20_at_1.09.07_PM_gsl5to.png
+
+#Additional Libraries
+-Jquery
+-Google Fonts
+
+#Code Snippet
+
+This first code snippet is of the JS that allowed me to toggle between classes to have sequential parts to my hamburger menu. Toggling between classes was a new concept for me and i'm excited to further explore with it
+link -https://res.cloudinary.com/dfmeqlgua/image/upload/v1595265270/Screen_Shot_2020-07-20_at_1.12.28_PM_vnjock.png
+
+This next code snippet is of the media queries I did for my grid layouts. The reason I'm proud of this is because I ran into some obstacles which made figuring it out that much more rewarding
+link -https://res.cloudinary.com/dfmeqlgua/image/upload/v1595265270/Screen_Shot_2020-07-20_at_9.42.49_AM_dpi1pz.png
+
+#Issues and Resolutions
+
+Here's a list of various issues I've encountered and solutions I've came up with...
+
+issue: hamburger menu crunching to close to my "welcome" banner
+resolution: putting borders around everything and seeing that one of my opaque div elements was taking up all the space that was needed for my hamburger menu
+
+issue: my projects title within my projects container wouldnt sit in the top center like it was suppose to because the structure would get complicated when i incorporated grid layouts across different screen sizes
+resolution: taking my "projects" title out of the container that consisted of all my projects and created a separate div for my projects title alone to sit on top of my projects container
+
+issue: navigation menu to appear the way it was intended across different screen sizes
+resolution: figuring out exactly where i needed to implement display:none and where not to
